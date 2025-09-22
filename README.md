@@ -63,5 +63,6 @@
 - 🐙 [Meu GitHub](https://github.com/LuizMnedesLima)  
 
 ---
-(assets/snake.svg)
+![Cobrinha](assets/snake.svg)
+
 ⭐ Se curtir algum repositório meu, não esquece de dar um **Star**!
